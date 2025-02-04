@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
-- 💻 Apaixonado por desenvolvimento web
+- 🎓 Estudante de Engenharia de Software e Análise de Desenvolvimento de Sistemas
+- 💻 Apaixonado por programação e dados
 - 🚀 Sempre aprendendo novas tecnologias
 
 ## Estatísticas do GitHub
