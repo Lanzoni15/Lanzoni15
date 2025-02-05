@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software e Análise de Desenvolvimento de Sistemas
+- 🎓 Estudante de Engenharia de Software / Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por programação e dados
 - 🚀 Sempre aprendendo novas tecnologias
 
