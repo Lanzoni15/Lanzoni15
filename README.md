@@ -23,7 +23,7 @@
 
 ## Projetos Destacados
 
-- [**Projeto Landing Page**](https://github.com/Lanzoni15/projeto-landing-page) - Este projeto é uma aplicação web desenvolvida como parte de um curso ou programa da Escola DNC. Hospedado no Netlify, o site provavelmente foi criado para praticar conceitos de desenvolvimento front-end, como:
+- [**Projeto Landing Page**](https://github.com/Lanzoni15/projeto-landing-page) - Este projeto é uma aplicação web desenvolvida como parte de um curso ou programa da Escola DNC. Hospedado no Netlify, o site foi criado para praticar conceitos de desenvolvimento front-end, como:
 
     - Estruturação com HTML: Páginas bem organizadas.
     - Estilização com CSS: Design moderno e responsivo.
@@ -40,6 +40,11 @@
 
   **Objetivo**:
   Demonstrar habilidades básicas em desenvolvimento web, como criação de layouts e funcionalidades interativas.
+
+- [**Outro Projeto com HTML e CSS**](https://github.com/Lanzoni15/projeto-com-html-css) - Este projeto focou no uso de HTML (88,2%) e CSS (11,8%). A aplicação apresenta uma estrutura simples, mas com design limpo e responsivo, visando melhorar a compreensão e as habilidades em front-end.
+
+  **Objetivo**:
+  Aprofundar o conhecimento em HTML e CSS, além de melhorar as habilidades em criação de layouts e design responsivo.
 
 ## Habilidades
 
