@@ -50,8 +50,9 @@
 ## Habilidades
 
 - **Linguagens de Programação**: JavaScript, Python, Java, TypeScript
-- **Frameworks**: React, Node.js, Django
-- **Ferramentas**: Git, VS Code
+- **Frameworks**: React, Node.js, Django, Angular
+- **Ferramentas**: Git, VS Code, Banco de Dados, Html, Css
+- **Soft Skills**: Comunicação, Trabalho em Equipe, Análise Crítica
 
 ## 📫 Contato
 
