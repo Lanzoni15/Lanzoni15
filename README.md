@@ -6,7 +6,7 @@
 - 💻 Apaixonado por programação e dados
 - 🚀 Sempre aprendendo novas tecnologias
 
-<!--## Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Lanzoni15">
@@ -19,7 +19,7 @@
   <a href="https://github.com/Lanzoni15">
     <img src="https://github-profile-trophy.vercel.app/?username=Lanzoni15&theme=algolia&row=2&column=3" alt="Trophies"/>
   </a>
-</div>-->
+</div>
 
 
 ## Projetos Destacados
@@ -42,7 +42,7 @@
   **Objetivo**:
   Demonstrar habilidades básicas em desenvolvimento web, como criação de layouts e funcionalidades interativas.
 
-- [**Outro Projeto com HTML e CSS**](https://github.com/Lanzoni15/Cv_ArthurLanzoni) - Este projeto focou no uso de HTML (88,2%) e CSS (11,8%). A aplicação apresenta uma estrutura simples, mas com design limpo e responsivo, visando melhorar a compreensão e as habilidades em front-end.
+- [**Outro Projetos**](https://github.com/Lanzoni15?tab=repositories) - Este projeto focou no uso de HTML (88,2%) e CSS (11,8%). A aplicação apresenta uma estrutura simples, mas com design limpo e responsivo, visando melhorar a compreensão e as habilidades em front-end.
 
   **Objetivo**:
   Aprofundar o conhecimento em HTML e CSS, além de melhorar as habilidades em criação de layouts e design responsivo.
