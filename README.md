@@ -54,7 +54,7 @@
 - **Ferramentas**: Git, VS Code, Banco de Dados, Html, Css
 - **Soft Skills**: Comunicação, Trabalho em Equipe, Análise Crítica
 
-## 📫 Contato
+## 📫 Contatos
 
 - 📧 **Email**: [arthurlanzoni08@gmail.com](mailto:arthurlanzoni08@gmail.com)
 - 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lanzoni-a838b721a/)
