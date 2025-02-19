@@ -22,22 +22,26 @@
 </div>
 
 
-## Projetos Destacados
+## 🚀 Projetos Destacados
+Meu GitHub contém uma coleção de projetos que desenvolvi ao longo da minha jornada como programador. Cada repositório reflete meu crescimento, aprendizado e desafios superados em diferentes áreas da tecnologia.
 
-- [**Projeto Site Responsivo**](https://github.com/Lanzoni15/Projeto-Site-Responsivo) - Este projeto é uma aplicação web desenvolvida como parte de um curso ou programa da Escola DNC. Hospedado no Netlify, o site foi criado para praticar conceitos de desenvolvimento front-end, como:
+🔗 Explore todos os meus projetos aqui:
+➡️ <a href="https://github.com/Lanzoni15?tab=repositories">Meus Repositórios no GitHub</a>
 
-  - **Estruturação com HTML**: Páginas bem organizadas.
-  - **Estilização com CSS**: Design moderno e responsivo.
-  - **Interatividade com JavaScript**: Funcionalidades dinâmicas.
+🔥 O que você encontrará nos meus projetos?
+📌 Diversidade de Tecnologias
 
-  **Objetivo**:
-  Demonstrar habilidades adquiridas durante o curso, como criação de layouts responsivos, integração de funcionalidades e deploy automatizado. Ideal para apresentar práticas de desenvolvimento web com foco em design adaptativo. 😊
+Desenvolvimento Web: HTML, CSS, JavaScript
 
-- [**Desafio Landing Page Arquitetura**](https://github.com/Lanzoni15/RID195551_Desafio01) - É uma aplicação web simples, desenvolvida com HTML, CSS e JavaScript, e hospedada no Netlify. Criado como parte de um desafio ou exercício prático, o site apresenta:
+🎯 Foco no Aprendizado Contínuo
 
-    - **Design Responsivo**: Adapta-se a diferentes dispositivos.
-    - **Interatividade**: Botões, formulários ou animações.
-    - **Deploy Automático**: Hospedagem via Netlify com integração contínua.
+Desafios de código e projetos acadêmicos
+Aplicações práticas de conceitos aprendidos em cursos
+Boas práticas de desenvolvimento e código limpo
+🚀 Deploy e Integração Contínua
+
+Aplicações hospedadas no Netlify
+Uso de GitHub Actions para automação
 
   **Objetivo**:
   Demonstrar habilidades básicas em desenvolvimento web, como criação de layouts e funcionalidades interativas.
