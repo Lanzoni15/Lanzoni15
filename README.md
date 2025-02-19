@@ -38,21 +38,11 @@ Desenvolvimento Web: HTML, CSS, JavaScript
 Desafios de código e projetos acadêmicos
 Aplicações práticas de conceitos aprendidos em cursos
 Boas práticas de desenvolvimento e código limpo
+
 🚀 Deploy e Integração Contínua
 
 Aplicações hospedadas no Netlify
-Uso de GitHub Actions para automação
-
-  **Objetivo**:
-  Demonstrar habilidades básicas em desenvolvimento web, como criação de layouts e funcionalidades interativas.
-
-- [**Outros Projetos**](https://github.com/Lanzoni15?tab=repositories) - Aqui você encontra uma coleção dos meus projetos desenvolvidos ao longo da minha jornada como programador. Cada repositório representa um desafio, uma ideia ou uma solução criativa, abrangendo diferentes tecnologias e áreas de atuação. Destaques incluem:
-
-  - **Diversidade de Tecnologias**: Projetos com HTML, CSS, JavaScript, React, Node.js e muito mais.
-  - **Aprendizado Contínuo**: Cada projeto reflete meu crescimento e busca por novos conhecimentos.
-
-  **Objetivo**:
-  Aprofundar o conhecimento em HTML e CSS, além de melhorar as habilidades em criação de layouts e design responsivo.
+Uso de GitHub Actions para automação.
 
 ## Habilidades
 
