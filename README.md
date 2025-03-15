@@ -6,22 +6,6 @@
 - 💻 Apaixonado por programação e dados
 - 🚀 Sempre aprendendo novas tecnologias
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Lanzoni15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&theme=blue-green" alt="Linguagens mais usadas"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Lanzoni15">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lanzoni15&theme=algolia&row=2&column=3" alt="Trophies"/>
-  </a>
-</div>
-
-
 ## 🚀 Projetos Destacados
 Meu GitHub contém uma coleção de projetos que desenvolvi ao longo da minha jornada como programador. Cada repositório reflete meu crescimento, aprendizado e desafios superados em diferentes áreas da tecnologia.
 
