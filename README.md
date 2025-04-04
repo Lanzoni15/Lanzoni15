@@ -15,8 +15,6 @@ Meu GitHub contém uma coleção de projetos que desenvolvi ao longo da minha jo
 🔥 O que você encontrará nos meus projetos?
 📌 Diversidade de Tecnologias
 
-Desenvolvimento Web: HTML, CSS, JavaScript
-
 🎯 Foco no Aprendizado Contínuo
 
 Desafios de código e projetos acadêmicos
