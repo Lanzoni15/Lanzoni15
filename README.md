@@ -17,19 +17,21 @@
 ### 👨‍💻 Sobre mim
 
 Olá, pessoal! 👋  
-Sou o **Arthur**, de São Paulo/SP, e atualmente trabalho como **Auxiliar Administrativo na AACD**.  
+Sou o **Arthur**, de São Paulo/SP, atualmente trabalhando como **Auxiliar Administrativo na AACD** e em transição de carreira para **Tecnologia**.
 
-✨ Apaixonado por tecnologia, sou fã de **dados**, **sistemas**, **segurança da informação** e **desafios de programação**.  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** (3º semestre) e formação complementar em **Engenharia de Software** pela Escola DNC. Também estudando Back-end com Java e APIs pela Alura.
 
-🎓 Estudando **Análise e Desenvolvimento de Sistemas** e também **Engenharia de Software** pela Escola DNC.  
+💻 Tenho foco em **Desenvolvimento Back-end**, **Banco de Dados** e **Segurança da Informação**, com projetos práticos e certificações em andamento.
 
-💡 Tenho experiência com **Java**, **JavaScript**, **Python**, **SQL** e **PL/SQL**.  
+🧠 Familiaridade com **C# com ASP.NET Core**, **Angular** e **SQL Server**, além de fundamentos sólidos em **HTML**, **CSS** e **JavaScript**. Com conhecimento em **Java (POO, APIs)**
 
-📊 Já atuei com **análise de dados** e **atendimento ao cliente** em diversos contextos profissionais.  
+📊 Experiência anterior com **atendimento ao cliente**, **análise de dados** e **ambiente corporativo**, o que fortalece minha comunicação e visão de negócio.
 
-📚 Atualmente busco me desenvolver como **dev back-end**, com foco em **dados** e **segurança**, através de projetos práticos, cursos e certificações.
+🔍 Buscando oportunidades como **Dev Júnior** ou **Estagiário em Back-end** para aplicar meus conhecimentos e crescer na área de tecnologia.
 
-<h3 align="center">🛠 Tecnologias</h3>
+---
+
+<h3 align="center">🛠 Tecnologias e Ferramentas</h3>
 
 <div align="center">
   <a href="https://dev.java" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /></a>
@@ -38,14 +40,18 @@ Sou o **Arthur**, de São Paulo/SP, e atualmente trabalho como **Auxiliar Admini
   <img width="12" />
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="PL/SQL" /></a>
   <img width="12" />
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" /></a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></a>
 </div>
 
-<h3 align="center">🔥 Codando...</h3>
+---
+
+<h3 align="center">🔥 Codando diariamente...</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lanzoni15&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
