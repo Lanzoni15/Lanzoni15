@@ -52,7 +52,3 @@ Sou o **Arthur**, de São Paulo/SP, atualmente trabalhando como **Auxiliar Admin
 ---
 
 <h3 align="center">🔥 Codando diariamente...</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lanzoni15&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
