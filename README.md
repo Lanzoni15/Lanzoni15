@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">Olá! Eu sou o Arthur 👋</h1>
+<h3 align="center">Estudante de ADS | Foco em Backend Java | Buscando oportunidades em TI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-lanzoni-a838b721a/" target="_blank">
@@ -16,16 +17,14 @@
 ---
 
 🎯 **Sobre mim**  
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente focado em backend com **Java e Spring Boot**, mas também me desenvolvendo em **frontend com HTML, CSS e JS**.  
-Estou em busca de uma oportunidade como **estagiário ou desenvolvedor júnior** para aplicar e evoluir meus conhecimentos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026), com foco em desenvolvimento **Backend em Java com Spring Boot**. Também possuo conhecimento em **HTML, CSS, JS, Git e MySQL**. Estou em busca de **estágio em TI** para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor. Tenho facilidade em aprender, foco em boas práticas e paixão por tecnologia.
 
 ---
 
 🛠 **Tecnologias e Ferramentas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql,aws" />
 </div>
 
 ---
@@ -34,15 +33,15 @@ Estou em busca de uma oportunidade como **estagiário ou desenvolvedor júnior**
 
 <div align="center">
 
-🔧 **Sistema de Agendamento Médico (Spring Boot + JPA)**  
+🔧 **[Sistema de Agendamento Médico (Spring Boot + JPA)](https://github.com/Lanzoni15/VollMed)**  
 > Backend RESTful com autenticação, cadastro de médicos e pacientes, e agendamento de consultas.  
 > Utiliza banco MySQL e segue arquitetura limpa.
 
-📺 **[Em andamento] ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)**  
+📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)](https://github.com/Lanzoni15/VollMed)**  
 > Projeto Full Stack inspirado na Netflix:  
 > Permite buscar e visualizar informações de filmes e séries por API, com layout responsivo e elegante.
 
-🌐 **Portfólio Pessoal Web Responsivo**  
+🌐 **[Portfólio Pessoal Web Responsivo](https://github.com/Lanzoni15/arthurlanzoni)**  
 > Desenvolvido com HTML, CSS e JS com efeitos de rolagem usando ScrollReveal.
 
 ☁️ **[Em breve] Projeto com AWS e Arquitetura Hexagonal**
