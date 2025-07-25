@@ -15,60 +15,75 @@
 
 ---
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-🚀 Focado em Java com Spring Boot, Python para Dados e Banco de Dados  
-💼 Buscando oportunidades de estágio em Desenvolvimento Back-End  
-📍 São Paulo - SP  
+🎯 **Sobre mim**  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente focado em backend com **Java e Spring Boot**, mas também me desenvolvendo em **frontend com HTML, CSS e JS**.  
+Estou em busca de uma oportunidade como **estagiário ou desenvolvedor júnior** para aplicar e evoluir meus conhecimentos.
 
 ---
 
-## 🛠️ Tecnologias que tenho usado
+🛠 **Tecnologias e Ferramentas**
 
-<div style="display: flex; flex-wrap: wrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql" />
 </div>
 
 ---
 
-## 📌 Destaques do meu GitHub
+🚀 **Projetos em Destaque**
 
-🔹 [**Desafio Itaú - API de Transações**](https://github.com/Lanzoni15/desafio-itau-transacoes)  
-Back-end em Java com Spring Boot, banco H2, arquitetura MVC, e testes com JUnit.
+<div align="center">
 
-🔹 **Em desenvolvimento:** Projeto "Screenmatch" (tipo Netflix), integrando Front + Back  
-Será publicado em breve! 🎬
+🔧 **Sistema de Agendamento Médico (Spring Boot + JPA)**  
+> Backend RESTful com autenticação, cadastro de médicos e pacientes, e agendamento de consultas.  
+> Utiliza banco MySQL e segue arquitetura limpa.
+
+📺 **[Em andamento] ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)**  
+> Projeto Full Stack inspirado na Netflix:  
+> Permite buscar e visualizar informações de filmes e séries por API, com layout responsivo e elegante.
+
+🌐 **Portfólio Pessoal Web Responsivo**  
+> Desenvolvido com HTML, CSS e JS com efeitos de rolagem usando ScrollReveal.
+
+☁️ **[Em breve] Projeto com AWS e Arquitetura Hexagonal**
+
+</div>
 
 ---
 
-## 📚 Estou aprendendo e pretendo aprofundar em:
+📊 **Estatísticas do GitHub**
 
-- Angular + TypeScript
-- AWS (já em preparação para certificação)
-- MongoDB
-- Desenvolvimento Full Stack com foco em APIs REST
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-## 📈 Estatísticas do GitHub
+📈 **Gráfico de Atividades Recentes**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanzoni15&bg_color=0d1117&color=986dff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+---
+
+🐍 **GitHub Snake Contribution Game**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lanzoni15/Lanzoni15/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+✨ **Curiosidades**
+- 📚 Estudo diariamente para evoluir como desenvolvedor.
+- 🧠 Aprendendo sobre boas práticas, testes e arquitetura de software.
+- ☁️ Estudando para minha primeira certificação **AWS Cloud Practitioner**.
+- 🎯 Objetivo: conquistar uma vaga de estágio ou júnior.
+
+---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=986dff&height=120&section=footer" />
 </p>
-
----
-
-## 🐍 Snake Animado dos Commits
-
-![snake gif](https://github.com/Lanzoni15/Lanzoni15/blob/output/github-contribution-grid-snake.svg)
-
----
-
-🧠 Desenvolvido por **Arthur Lanzoni**
