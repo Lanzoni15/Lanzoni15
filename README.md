@@ -15,53 +15,60 @@
 
 ---
 
-🎯 **Sobre mim**  
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.  
-Estou focado em me tornar um **Desenvolvedor Full Stack Java**, combinando conhecimento em **backend com Spring Boot** e **frontend com tecnologias modernas**.  
-
-📌 Buscando oportunidades como **estagiário ou desenvolvedor júnior** para aplicar na prática meus conhecimentos.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🚀 Focado em Java com Spring Boot, Python para Dados e Banco de Dados  
+💼 Buscando oportunidades de estágio em Desenvolvimento Back-End  
+📍 São Paulo - SP  
 
 ---
 
-🛠 **Tecnologias e Ferramentas**
+## 🛠️ Tecnologias que tenho usado
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql" />
+<div style="display: flex; flex-wrap: wrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
 </div>
 
 ---
 
-💬 **Projetos em Destaque**
-- 🔧 **CRUD de Clínica Médica com Spring Boot** – Projeto baseado no curso da VollMed, com autenticação, cadastro e agendamento de consultas.
-- 📱 **Portfólio Web Responsivo** – Desenvolvido com HTML, CSS e JavaScript + ScrollReveal.
-- ☁️ **[Em breve]** Projeto com **AWS** e **Arquitetura Hexagonal**.
+## 📌 Destaques do meu GitHub
+
+🔹 [**Desafio Itaú - API de Transações**](https://github.com/Lanzoni15/desafio-itau-transacoes)  
+Back-end em Java com Spring Boot, banco H2, arquitetura MVC, e testes com JUnit.
+
+🔹 **Em desenvolvimento:** Projeto "Screenmatch" (tipo Netflix), integrando Front + Back  
+Será publicado em breve! 🎬
 
 ---
 
-📊 **Estatísticas do GitHub**
+## 📚 Estou aprendendo e pretendo aprofundar em:
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-📅 **Gráfico de Atividades**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanzoni15&bg_color=0d1117&color=986dff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-</div>
+- Angular + TypeScript
+- AWS (já em preparação para certificação)
+- MongoDB
+- Desenvolvimento Full Stack com foco em APIs REST
 
 ---
 
-✨ **Curiosidades**
-- 🎓 Estudo diariamente para evoluir como desenvolvedor.
-- 🧠 Aprendendo sobre boas práticas, testes e arquitetura de software.
-- 🚀 Planejando minha **primeira certificação em Cloud (AWS)**.
-
----
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=986dff&height=120&section=footer" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&langs_count=7&theme=radical"/>
 </p>
+
+---
+
+## 🐍 Snake Animado dos Commits
+
+![snake gif](https://github.com/Lanzoni15/Lanzoni15/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+🧠 Desenvolvido por **Arthur Lanzoni**
