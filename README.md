@@ -68,14 +68,6 @@ Estou em busca de uma oportunidade como **estagiário ou desenvolvedor júnior**
 
 ---
 
-🐍 **GitHub Snake Contribution Game**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lanzoni15/Lanzoni15/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ✨ **Curiosidades**
 - 📚 Estudo diariamente para evoluir como desenvolvedor.
 - 🧠 Aprendendo sobre boas práticas, testes e arquitetura de software.
