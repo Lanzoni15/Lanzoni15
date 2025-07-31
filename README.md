@@ -37,7 +37,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026)
 > Backend RESTful com autenticação, cadastro de médicos e pacientes, e agendamento de consultas.  
 > Utiliza banco MySQL e segue arquitetura limpa.
 
-📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)](https://github.com/Lanzoni15/VollMed)**  
+📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)](https://github.com/Lanzoni15/ScreenMatch)**  
 > Projeto Full Stack inspirado na Netflix:  
 > Permite buscar e visualizar informações de filmes e séries por API, com layout responsivo e elegante.
 
