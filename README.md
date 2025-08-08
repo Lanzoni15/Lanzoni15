@@ -37,7 +37,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista
 > Backend RESTful em Java/Spring Boot para processamento de transações financeiras.  
 > Aplicação em memória com arquitetura limpa, SOLID, testes automatizados (JUnit/Mockito) e tratamento de exceções.
 
-📺 **[Em andamento] ScreenMatch - Catálogo de Filmes](https://github.com/Lanzoni15/ScreenMatch)**  
+📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes](https://github.com/Lanzoni15/ScreenMatch)**  
 > Projeto Full Stack inspirado na Netflix.  
 > Consome API para exibir filmes e séries, com layout responsivo e elegante.
 
