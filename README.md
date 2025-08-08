@@ -17,9 +17,7 @@
 ---
 
 🎯 **Sobre mim**  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2026) com foco em **desenvolvimento Backend em Java com Spring Boot**. Possuo conhecimentos em **HTML, CSS, JavaScript, Git, MySQL e AWS**.  
-Busco uma oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, seguir aprendendo e contribuir com soluções eficientes.  
-Tenho facilidade para aprender, atenção a boas práticas e verdadeira paixão por tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2026) com foco em **desenvolvimento Backend em Java com Spring Boot**. Possuo conhecimentos em **HTML, CSS, JavaScript, Git, MySQL e AWS**. Busco uma oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, seguir aprendendo e contribuir com soluções eficientes. Tenho facilidade para aprender, atenção a boas práticas e verdadeira paixão por tecnologia.
 
 ---
 
@@ -38,10 +36,6 @@ Tenho facilidade para aprender, atenção a boas práticas e verdadeira paixão 
 🔧 **[Desafio Itaú - Sistema de Transações Financeiras](https://github.com/Lanzoni15/desafio-itau-transacoes)**  
 > Backend RESTful em Java/Spring Boot para processamento de transações financeiras.  
 > Aplicação em memória com arquitetura limpa, SOLID, testes automatizados (JUnit/Mockito) e tratamento de exceções.
-
-📅 **[Sistema de Agendamento Médico (Spring Boot + JPA)](https://github.com/Lanzoni15/VollMed)**  
-> API RESTful com autenticação JWT, cadastro de médicos e pacientes e agendamento de consultas.  
-> Integração com MySQL e aplicação de arquitetura limpa.
 
 📺 **[Em andamento] ScreenMatch - Catálogo de Filmes](https://github.com/Lanzoni15/ScreenMatch)**  
 > Projeto Full Stack inspirado na Netflix.  
