@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Olá! Eu sou o Arthur 👋</h1>
-<h3 align="center">Estudante de ADS | Foco em Backend Java | Buscando oportunidades em TI</h3>
+<h3 align="center">Backend Developer | Java & Spring Boot | REST APIs | MySQL | AWS</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-lanzoni-a838b721a/" target="_blank">
@@ -17,7 +17,9 @@
 ---
 
 🎯 **Sobre mim**  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026), com foco em desenvolvimento **Backend em Java com Spring Boot**. Também possuo conhecimento em **HTML, CSS, JS, Git e MySQL**. Estou em busca de **estágio em TI** para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor. Tenho facilidade em aprender, foco em boas práticas e paixão por tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2026) com foco em **desenvolvimento Backend em Java com Spring Boot**. Possuo conhecimentos em **HTML, CSS, JavaScript, Git, MySQL e AWS**.  
+Busco uma oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, seguir aprendendo e contribuir com soluções eficientes.  
+Tenho facilidade para aprender, atenção a boas práticas e verdadeira paixão por tecnologia.
 
 ---
 
@@ -33,16 +35,20 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026)
 
 <div align="center">
 
-🔧 **[Sistema de Agendamento Médico (Spring Boot + JPA)](https://github.com/Lanzoni15/VollMed)**  
-> Backend RESTful com autenticação, cadastro de médicos e pacientes, e agendamento de consultas.  
-> Utiliza banco MySQL e segue arquitetura limpa.
+🔧 **[Desafio Itaú - Sistema de Transações Financeiras](https://github.com/Lanzoni15/desafio-itau-transacoes)**  
+> Backend RESTful em Java/Spring Boot para processamento de transações financeiras.  
+> Aplicação em memória com arquitetura limpa, SOLID, testes automatizados (JUnit/Mockito) e tratamento de exceções.
 
-📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes (Java + Spring + HTML/CSS)](https://github.com/Lanzoni15/ScreenMatch)**  
-> Projeto Full Stack inspirado na Netflix:  
-> Permite buscar e visualizar informações de filmes e séries por API, com layout responsivo e elegante.
+📅 **[Sistema de Agendamento Médico (Spring Boot + JPA)](https://github.com/Lanzoni15/VollMed)**  
+> API RESTful com autenticação JWT, cadastro de médicos e pacientes e agendamento de consultas.  
+> Integração com MySQL e aplicação de arquitetura limpa.
+
+📺 **[Em andamento] ScreenMatch - Catálogo de Filmes](https://github.com/Lanzoni15/ScreenMatch)**  
+> Projeto Full Stack inspirado na Netflix.  
+> Consome API para exibir filmes e séries, com layout responsivo e elegante.
 
 🌐 **[Portfólio Pessoal Web Responsivo](https://github.com/Lanzoni15/arthurlanzoni)**  
-> Desenvolvido com HTML, CSS e JS com efeitos de rolagem usando ScrollReveal.
+> Desenvolvido com HTML, CSS e JS, utilizando animações com ScrollReveal.
 
 ☁️ **[Em breve] Projeto com AWS e Arquitetura Hexagonal**
 
@@ -69,9 +75,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026)
 
 ✨ **Curiosidades**
 - 📚 Estudo diariamente para evoluir como desenvolvedor.
-- 🧠 Aprendendo sobre boas práticas, testes e arquitetura de software.
-- ☁️ Estudando para minha primeira certificação **AWS Cloud Practitioner**.
-- 🎯 Objetivo: conquistar uma vaga de estágio ou júnior.
+- 🧠 Praticando boas práticas, testes e arquitetura de software.
+- ☁️ Preparando minha primeira certificação **AWS Cloud Practitioner**.
+- 🎯 Objetivo: conquistar uma vaga de estágio ou desenvolvedor júnior.
 
 ---
 
