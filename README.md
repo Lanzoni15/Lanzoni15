@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">Olá! Eu sou o Arthur 👋</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | REST APIs | MySQL | AWS</h3>
+<h3 align="center">Backend Developer | Python | REST APIs | SQL | Clean Architecture | IA & Machine Learning | Google Cloud</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-lanzoni-a838b721a/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthurlanzoni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arthurlanzoni08@gmail.com">
@@ -16,50 +16,60 @@
 
 ---
 
-🎯 **Sobre mim**  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista para 2026) com foco em **desenvolvimento Backend em Java com Spring Boot**. Possuo conhecimentos em **HTML, CSS, JavaScript, Git, MySQL e AWS**. Busco uma oportunidade de **estágio ou vaga júnior** para aplicar meus conhecimentos em projetos reais, seguir aprendendo e contribuir com soluções eficientes. Tenho facilidade para aprender, atenção a boas práticas e verdadeira paixão por tecnologia.
+🎯 <b>Sobre mim</b>  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão em 2026) com foco em **Desenvolvimento Backend** utilizando **Python**, **APIs REST**, **SQL**, **Clean Architecture** e princípios **SOLID**.  
+Atuo em uma transição sólida para **Inteligência Artificial**, explorando **Machine Learning**, **IA Generativa** e **automação inteligente** aplicada ao desenvolvimento.  
+
+Além da base técnica, tenho certificação em **Google Cloud Computing Foundations**, experiência com **Compute Engine**, **Load Balancing** e práticas essenciais de Cloud para aplicações escaláveis.
+
+Busco oportunidades de **estágio** ou **vaga júnior** que valorizem proatividade, evolução contínua e construção de soluções inteligentes.
 
 ---
 
-🛠 **Tecnologias e Ferramentas**
+🛠 <b>Tecnologias e Ferramentas</b>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,sqlite,gcp,linux,docker" />
 </div>
+
+📌 *Conceitos, práticas e metodologias:*  
+- Desenvolvimento Backend  
+- Arquitetura Limpa (Clean Architecture)  
+- Princípios SOLID  
+- SQL & Modelagem de Dados  
+- REST APIs e boas práticas de API Design  
+- CI/CD  
+- Google Cloud Platform  
+- Automação com IA  
+- Machine Learning (bases)  
+- Versionamento com Git e GitHub  
+- Documentação técnica e padrões  
 
 ---
 
-🚀 **Projetos em Destaque**
+🔥 <b>Diferenciais que me destacam</b>
 
-<div align="center">
+✨ **Forte base em arquitetura de software**  
+Apoio meu código em princípios sólidos que garantem escalabilidade, legibilidade e fácil manutenção.
 
-🔧 **[Desafio Itaú - Sistema de Transações Financeiras](https://github.com/Lanzoni15/desafio-itau-transacoes)**  
-> Backend RESTful em Java/Spring Boot para processamento de transações financeiras.  
-> Aplicação em memória com arquitetura limpa, SOLID, testes automatizados (JUnit/Mockito) e tratamento de exceções.
+🤖 **Visão moderna com IA e automação**  
+Busco integrar inteligência artificial em processos e aplicações, trazendo automação real para o dia a dia.
 
-📺 **[Em andamento] [ScreenMatch - Catálogo de Filmes](https://github.com/Lanzoni15/ScreenMatch)**  
-> Projeto Full Stack inspirado na Netflix.  
-> Consome API para exibir filmes e séries, com layout responsivo e elegante.
+☁️ **Preparado para Cloud**  
+Treinado e certificado em Google Cloud, com experiência prática em ambientes distribuídos e serviços essenciais.
 
-🌐 **[Portfólio Pessoal Web Responsivo](https://github.com/Lanzoni15/arthurlanzoni)**  
-> Desenvolvido com HTML, CSS e JS, utilizando animações com ScrollReveal.
+⚡ **Aprendizado rápido + execução prática**  
+Evoluo diariamente: estudo, aplico e documento. Tenho facilidade em absorver novas tecnologias e entregar resultados.
 
-☁️ **[Em breve] Projeto com AWS e Arquitetura Hexagonal**
+🧩 **Raciocínio lógico e resolução de problemas**  
+Experiência real em suporte técnico, padronização de processos e melhoria de fluxo (reduções reais acima de 30%).
 
-</div>
-
----
-
-📊 **Estatísticas do GitHub**
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lanzoni15&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzoni15&layout=compact&theme=radical&hide_border=true" />
-</div>
+💼 **Profissionalismo e responsabilidade**  
+Conduzo tarefas com foco, clareza e disciplina — características essenciais em desenvolvimento e operações.
 
 ---
 
-📈 **Gráfico de Atividades Recentes**
+📈 <b>Gráfico de Atividades Recentes</b>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanzoni15&bg_color=0d1117&color=986dff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
@@ -67,11 +77,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (conclusão prevista
 
 ---
 
-✨ **Curiosidades**
-- 📚 Estudo diariamente para evoluir como desenvolvedor.
-- 🧠 Praticando boas práticas, testes e arquitetura de software.
-- ☁️ Preparando minha primeira certificação **AWS Cloud Practitioner**.
-- 🎯 Objetivo: conquistar uma vaga de estágio ou desenvolvedor júnior.
+✨ <b>Curiosidades</b>
+- Estudo IA, Python e arquitetura todos os dias.  
+- Tenho paixão por soluções inteligentes e automações.  
+- Quero contribuir com projetos reais que façam diferença.  
+- Minha meta atual: **Back-End | IA/ML | Cloud**.
 
 ---
 
